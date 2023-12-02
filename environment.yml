@@ -38,4 +38,3 @@ dependencies:
       - pywinbox==0.6
       - pywinctl==0.3
       - typing-extensions==4.8.0
-prefix: C:\Users\acer\.conda\envs\spotify-controller
